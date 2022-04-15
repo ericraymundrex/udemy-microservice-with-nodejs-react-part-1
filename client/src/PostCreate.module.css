@@ -1,0 +1,12 @@
+.inputContainer{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.inputContainer input{
+    margin-bottom: 10px;
+}
+
+.inputContainer button{
+    margin-bottom: 10px;
+}
